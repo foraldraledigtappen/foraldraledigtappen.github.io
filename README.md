@@ -1,6 +1,6 @@
 # foraldraledigtappen.github.io
 
-Webbsida för Föräldraledigt-appen: integritetspolicy och support.
+Webbsida för appen: integritetspolicy och support.
 
 Publiceras med GitHub Pages på https://foraldraledigtappen.github.io
 
